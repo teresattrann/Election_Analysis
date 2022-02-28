@@ -6,14 +6,21 @@ The purpose of this election audit analysis was to use our given data to find th
 
 ##  Election-Audit Results: 
 
-* According to our data, there was a total of 369,711 votes cast in the congressional election votes. 
-* Denver was the largest county that voted, with a total of 306,055 votes, making up 82.8% of the total votes. Jefferson came in second with 38,855 votes, making up 10.5% of the total votes. Arapahoe was able to came in third, with 24,801 votes, making up 6.7% of the total votes. 
+* There was a total of 369,711 votes cast in the congressional election votes. 
+* We are able to see the vote count and percentage of Counties that voted:
+ *      Jefferson: 10.5% (38,855) 
+        Denver: 82.8% (306,055)
+        Arapahoe: 6.7% (24,801)
 
-![County Votes Denver](https://user-images.githubusercontent.com/98780937/156050119-66b7fbf0-d1f7-4630-bfee-5194ae34563f.png)
+* The county with the most votes was Denver, with 306,855 votes, making up of 82.8% of the total votes.
 
-* Diana DeGette was able to win the election by a landslide. With 272,892 votes, Diana had 73.8% of total votes. Charles Casper Stockham was able to place second with 85,213 votes, which was 23% of total votes. Last but not least, Raymon Anthony Doane was also able to make it to the list, placing third with 11,606 votes, 3.1% of the total votes. 
+* We can also see the vote count and percentages of votes for the candidates:
+*       Charles Casper Stockham: 23.0% (85,213)
+        Diana DeGette: 73.8% (272,892)
+        Raymon Anthony Doane: 3.1% (11,606)
+* Diana DeGette was able to win the election by a landslide. With 272,892 votes, Diana had 73.8% of total votes. 
 
-![Election Winners](https://user-images.githubusercontent.com/98780937/156050246-f29b558d-2d29-40b3-81bd-d47960bd3cea.png)
+![Election](https://user-images.githubusercontent.com/98780937/156057015-245e732a-2bb9-45a1-9a5c-18d3a5a97565.png)
 
 ##  Election-Audit Summary: 
 
