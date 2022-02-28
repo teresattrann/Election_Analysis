@@ -17,4 +17,4 @@ The purpose of this election audit analysis was to use our given data to find th
 
 ##  Election-Audit Summary: 
 
-Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+We can modify this script and expand our data to account for more variables in any election. For example, we can use more conditional statements for certain demographics. Basically, by using the same code and tweaking the script, we are able to get, for example, the range of ages that are most likely to vote. No matter the election, we can easily modtify our code in anyway to fit any election needs. Just like how we were able to modift our code in order to find the counties votes and percentages.
